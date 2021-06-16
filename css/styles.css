@@ -49,8 +49,27 @@ nav a:hover{
     width: 30px;
 }
 
+
+/*Project Page*/
 .construction{
     display: block;
     margin: auto;
     
+}
+
+.projects{
+    margin:auto;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+.projects td{
+    padding: 20px
+}
+
+.github img{
+    width: 50px;
+    margin: auto;
+    display: block;
+    padding-top: 20px;
 }
